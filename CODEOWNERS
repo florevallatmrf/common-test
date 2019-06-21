@@ -1,0 +1,10 @@
+# This file
+CODEOWNERS @Marfeel/Frontend-Teachleads
+
+# Paid impressions
+twister.json @Marfeel/ALOT
+
+# UI
+ui.json @Marfeel/UX
+*.scss @Marfeel/UX
+
